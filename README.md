@@ -71,5 +71,4 @@ All decisions and transitions are handled automatically using a **LangGraph-base
 ---
 
 
-* Write a **short repo tagline**
-* Create a **demo section**
+
